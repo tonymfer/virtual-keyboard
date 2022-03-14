@@ -1,0 +1,34 @@
+Arguments: 
+  /Users/ggoma/.npm-global/lib/node_modules/node/bin/node /Users/ggoma/.npm-global/bin/yarn add -D webpack webpack-cli webpack-dev-server
+
+PATH: 
+  /Users/ggoma/.npm-global/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/ggoma/.npm-global/bin:/Users/ggoma/Library/Android/sdk/emulator:/Users/ggoma/Library/Android/sdk/tools:/Users/ggoma/Library/Android/sdk/tools/bin:/Users/ggoma/Library/Android/sdk/platform-tools:/Users/ggoma/Library/Android/sdk/emulator:/Users/ggoma/Library/Android/sdk/tools:/Users/ggoma/Library/Android/sdk/tools/bin:/Users/ggoma/Library/Android/sdk/platform-tools
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  17.3.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+
+npm manifest: 
+  {
+    "name": "virtual-keyboard",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/tonypark410/virtual-keyboard.git",
+    "author": "cwpark410 <qkrcksdn10@gmail.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
