@@ -10,6 +10,8 @@
 
 > a simple virtual keyboard
 
+![](https://github.com/tonypark76/virtual-keyboard/blob/main/GIF.gif)
+
 ## Install
 
 ```sh
